@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="commonparent:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/commonparent_jar</output-path>
+    <root id="archive" name="commonparent.jar">
+      <element id="module-output" name="commonparent" />
+    </root>
+  </artifact>
+</component>

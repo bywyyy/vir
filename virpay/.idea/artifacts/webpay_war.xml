@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="webpay:war">
+    <output-path>$PROJECT_DIR$/webpay/target</output-path>
+    <root id="archive" name="web-pay-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="webpay:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/commonparent/commonparent.iml" filepath="$PROJECT_DIR$/commonparent/commonparent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/virtrade.iml" filepath="$PROJECT_DIR$/virtrade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webtrade/webtrade.iml" filepath="$PROJECT_DIR$/webtrade/webtrade.iml" />
+    </modules>
+  </component>
+</project>
